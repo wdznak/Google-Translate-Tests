@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CreateUser.qml</file>
+        <file>CreateUserForm.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>main.cpp</file>
+        <file>WordListModel.qml</file>
+        <file>Login.qml</file>
+        <file>UserInterface.qml</file>
+        <file>CustomQml/ShadowRectangle.qml</file>
+        <file>Graphics/ic_delete_forever_black_24px.svg</file>
+        <file>Graphics/ic_play_arrow_black_24px.svg</file>
+        <file>Graphics/ic_more_vert_black_24px.svg</file>
+        <file>Graphics/horse.jpg</file>
+        <file>UserPanel.qml</file>
+        <file>WelcomePanel.qml</file>
+        <file>GroupsPanel.qml</file>
+        <file>LanguagesPanel.qml</file>
+        <file>UpdateWordsListPanel.qml</file>
+        <file>CustomQml/MenuButton.qml</file>
+        <file>GroupEditorPanel.qml</file>
+        <file>TestField.qml</file>
+        <file>TestPanel.qml</file>
+        <file>Graphics/ic_done_all_black_24px.svg</file>
+        <file>Graphics/ic_lock_black_24px.svg</file>
+        <file>Graphics/ic_lock_open_black_24px.svg</file>
+    </qresource>
+</RCC>
